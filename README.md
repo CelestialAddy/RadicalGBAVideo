@@ -4,3 +4,9 @@ Movies from 2003 video game *The Simpsons: Hit & Run* converted in to Game Boy A
 **Encode settings**:
 * Bitrate: 120 KB/s
 * No Trim, resize, aspect
+
+**Files**
+* README.md - This readme file!
+* game_intro.gba - "Game Introduction"
+* l1_intro.gba - "Level 1 Introduction"
+* larry_the_looter.gba - Larry the Looter arcade machine gag movie
