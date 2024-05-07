@@ -1,3 +1,6 @@
+# Notice
+This is an old and unfinished humourous project. I have no intentions of moving further with it and anyone else can if they want to anyway.
+
 # RadicalGBAVideo
 Movies from 2003 video game *The Simpsons: Hit & Run* converted in to Game Boy Advance Video ROMs using [Mirror METEO AVI2GBA](https://github.com/Sterophonick/mirror-meteo-avi2gba).
 
